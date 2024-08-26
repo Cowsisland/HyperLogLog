@@ -1,1 +1,1 @@
-# hyperloglog
+# hyperloglog アルゴリズムを実装する
